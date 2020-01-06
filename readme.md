@@ -5,6 +5,7 @@ This repo implements the code from the UAlberta RL Specialization on various env
 Currently one for each course:
 
 1. Find a bandit environment 
+	a. Contextual Bandits?
 
 2. Implement a table based agent
 
