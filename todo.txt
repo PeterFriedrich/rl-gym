@@ -1,9 +1,14 @@
 TODO:
 
-- set up functions for rendering and saving figures
+IMMEDIATE:
+
+- set up basic rendering function?  For both table and tf/pytorch?
 
 - jumping straight to using tensorflow or numpy?
 
+SECONDARY:
+
+- refactor plot_save, maybe put the function back in?
 
 optional:
 
