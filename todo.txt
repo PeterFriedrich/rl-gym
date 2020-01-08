@@ -1,3 +1,10 @@
-1. configure virtual env
+TODO:
 
-2. create requirements.txt
+- set up functions for rendering and saving figures
+
+- jumping straight to using tensorflow or numpy?
+
+
+optional:
+
+2. create requirements.txt ?
